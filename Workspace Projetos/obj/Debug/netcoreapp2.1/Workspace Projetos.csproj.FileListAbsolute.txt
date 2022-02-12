@@ -1,0 +1,13 @@
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\bin\Debug\netcoreapp2.1\Workspace Projetos.deps.json
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\bin\Debug\netcoreapp2.1\Workspace Projetos.runtimeconfig.json
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\bin\Debug\netcoreapp2.1\Workspace Projetos.runtimeconfig.dev.json
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\bin\Debug\netcoreapp2.1\Workspace Projetos.dll
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\bin\Debug\netcoreapp2.1\Workspace Projetos.pdb
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.csproj.AssemblyReference.cache
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.AssemblyInfoInputs.cache
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.AssemblyInfo.cs
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.csproj.CoreCompileInputs.cache
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.dll
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.pdb
+C:\Users\nuno_\OneDrive\Desktop\Workspace Projetos\obj\Debug\netcoreapp2.1\Workspace Projetos.genruntimeconfig.cache
